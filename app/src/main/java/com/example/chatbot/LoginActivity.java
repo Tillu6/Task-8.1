@@ -1,3 +1,4 @@
+// LoginActivity.java
 package com.example.chatbot;
 
 import android.content.Intent;
